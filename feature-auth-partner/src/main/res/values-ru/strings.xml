@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="i_am_customer">Я клиент</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="password">Пароль</string>
+    <string name="title">Название</string>
+    <string name="description">Описание</string>
+</resources>

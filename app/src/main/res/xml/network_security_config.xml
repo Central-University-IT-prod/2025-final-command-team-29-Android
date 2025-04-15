@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">prod-team-29-4254c2ee.REDACTED</domain>
+    </domain-config>
+</network-security-config>

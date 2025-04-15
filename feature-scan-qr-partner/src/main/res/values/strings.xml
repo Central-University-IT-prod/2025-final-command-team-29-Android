@@ -1,0 +1,5 @@
+<resources>
+    <string name="error">Has not camera permission</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+</resources>

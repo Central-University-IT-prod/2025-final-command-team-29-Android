@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_users">активных пользователей</string>
+    <string name="daily_users">активных пользователей сегодня</string>
+    <string name="conversion">конверсия</string>
+    <string name="buy_count">всего покупок по акциям</string>
+    <string name="daily_buys">покупок по акциям за сегодня</string>
+    <string name="active_promos">активных акций</string>
+    <string name="saved">Сохранено в Downloads</string>
+    <string name="export">Экспортировать</string>
+</resources>

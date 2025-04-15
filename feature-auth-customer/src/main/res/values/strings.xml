@@ -1,0 +1,9 @@
+<resources>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="welcome">Welcome</string>
+    <string name="i_am_partner">I am partner</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+</resources>

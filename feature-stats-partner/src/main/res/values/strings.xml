@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_users">active users</string>
+    <string name="daily_users">active users</string>
+    <string name="conversion">conversion</string>
+    <string name="buy_count">buy count</string>
+    <string name="daily_buys">daily buys</string>
+    <string name="active_promos">active promos</string>
+    <string name="saved">Saved in Downloads</string>
+    <string name="export">Export</string>
+</resources>

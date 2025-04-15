@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Т-Лояльность</string>
+    <string name="title">Название</string>
+    <string name="time_limit">Временной лимит</string>
+    <string name="description">Описание</string>
+    <string name="select_date_range">Выберите диапазон дат</string>
+    <string name="total">Всего</string>
+    <string name="uses">использований</string>
+    <string name="use_it_for_the">Использовать на</string>
+    <string name="time">раз</string>
+    <string name="condition">Условие</string>
+    <string name="publish">Опубликовать</string>
+    <string name="success">Отправлено на модерацию</string>
+    <string name="title_is_empty">Заголовок пустой</string>
+    <string name="description_is_empty">Описание пустое</string>
+    <string name="incorrect_date">Некорректная дата</string>
+    <string name="incorrect_usage_limit">Некорректный лимит использования</string>
+    <string name="incorrect_use_on_time">Некорректное значение использования на N раз</string>
+    <string name="required_to_use">Необходимо для использования</string>
+    <string name="total_usages">Всего использований:</string>
+    <string name="common">Без настройки</string>
+    <string name="unique">Уникален для пользователя</string>
+    <string name="logout">Выйти</string>
+</resources>
